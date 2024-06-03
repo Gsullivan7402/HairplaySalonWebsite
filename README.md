@@ -36,30 +36,6 @@ bash
 
     Open index.html in your preferred web browser to view the website.
 
-## File Structure
-
-hairplay-design/
-│
-├── assets/
-│   ├── facebook.png
-│   ├── instagram.png
-│   ├── logo.png
-│   ├── store.png
-│   ├── lisa.png
-│   ├── adam.png
-│   ├── lily.png
-│
-├── scripts/
-│   └── main.js
-│
-├── styles/
-│   └── style.css
-│
-├── index.html
-├── README.md
-
-
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.

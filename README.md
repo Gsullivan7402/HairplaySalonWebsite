@@ -1,15 +1,6 @@
 # Hairplay Design Website
 
 Welcome to the Hairplay Design website project. This website is designed to showcase Hairplay Design, a hair salon dedicated to providing top-notch services. The website includes essential features such as a header with social media links, a store image, a "Meet the Team" carousel, customer testimonials, and the salon's location.
-Table of Contents
-
-    Features
-    Technologies Used
-    Installation
-    Usage
-    Contributing
-    License
-    Contact
 
 ## Features
 
